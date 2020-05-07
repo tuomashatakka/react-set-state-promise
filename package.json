@@ -1,7 +1,7 @@
 {
   "name": "react-set-state-promise",
   "version": "1.0.0",
-  "description": "",
+  "description": "Promisify React components' set state calls",
   "main": "index.js",
   "scripts": {},
   "peerDependencies": {
@@ -12,5 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "react": "^16.7.0"
-  }
+  },
+  "repository": "github:tuomashatakka/react-set-state-promise",
+  "homepage": "https://github.com/tuomashatakka/react-set-state-promise"
 }
