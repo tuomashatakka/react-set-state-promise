@@ -1,6 +1,6 @@
 {
   "name": "react-set-state-promise",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Promisify React components' set state calls",
   "main": "index.js",
   "scripts": {},
